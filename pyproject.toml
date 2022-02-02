@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "oauth-drf-playground"
+name = "jwt-drf-playground"
 version = "0.1.0"
 description = ""
 authors = ["Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>"]
