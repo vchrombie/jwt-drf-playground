@@ -1,5 +1,9 @@
 # jwt-drf-playground
 
+Use JWT Token ([django-rest-framework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)) for Django REST Framework Authentication 
+
+---
+
 ### access cart items without any authentication
 ![Screenshot from 2022-02-02 17-31-55](https://user-images.githubusercontent.com/25265451/152150301-fdb108a7-6758-4c10-8297-a953e3eb8a9d.png)
 
